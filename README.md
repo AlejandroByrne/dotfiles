@@ -17,7 +17,7 @@ git clone https://github.com/YOUR_USERNAME/dotfiles.git
 cd dotfiles
 chmod +x install.sh
 ./install.sh
-
+```
 ### System Dependencies Installed
 # Terminal
 - iTerm2
